@@ -85,7 +85,7 @@ export const Footer = () => {
                 <span>Montag - Samstag</span>
                 <span className="text-foreground">10:00 - 20:00</span>
               </li>
-            <
+            
                
               <li className="flex justify-between text-muted-foreground">
                 <span>Sonntag</span>
